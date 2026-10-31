@@ -6,3 +6,4 @@ categories: investigacion curaduria
 ---
 Hoy comencé a sistematizar mis notas...
 ![Foto de mi pintura](/assets/images/logo_denis.png)
+Editado desde mi celular!!!
