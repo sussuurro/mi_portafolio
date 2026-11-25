@@ -7,7 +7,7 @@ url: "https://sussuurro.github.io"
 linkedin_username: denis-gonzalez-poveda
 github_username: sussuurro
 
-theme: slate
+theme: minima
 plugins:
   - jekyll-feed
 
