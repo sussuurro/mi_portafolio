@@ -7,9 +7,8 @@ url: "https://sussuurro.github.io"
 linkedin_username: denis-gonzalez-poveda
 github_username: sussuurro
 
-remote_theme: pages-themes/slate@v0.2.0
+theme: minima
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
 
 future: true
