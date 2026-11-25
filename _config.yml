@@ -4,10 +4,10 @@ description: >-
   Portafolio profesional de Denis González Poveda, historiador del arte y curador.
 baseurl: "/mi_portafolio"
 url: "https://sussuurro.github.io"
-twitter_username: jekyllrb
+linkedin_username: denis-gonzalez-poveda
 github_username: sussuurro
 
-theme: minima
+theme: slate
 plugins:
   - jekyll-feed
 
