@@ -13,9 +13,8 @@ Historiador y teórico del arte formado en la Universidad de Chile. Mi práctica
 ## Experiencia Laboral
 
 ### 2026
-
-- **Foro de las Artes 2026 / DICREA / Subversión Sensible** — Asistente de Producción artística. Santiago.
 - **Museo de Arte Popular Americano (MAPA), Universidad de Chile** — Investigador y asistente de Curatoría. Santiago. *(2026 – Presente)*
+- **Foro de las Artes 2026 / DICREA / Subversión Sensible** — Asistente de Producción artística. Santiago.
 - **Centro Cultural de España (CCE) y Centro NAVE** — Residencia de investigación y creación *"Fracaso como Utopía"*. Santiago.
 
 ### 2025 – 2026
@@ -76,7 +75,6 @@ Historiador y teórico del arte formado en la Universidad de Chile. Mi práctica
 
 ## Contacto
 
-📧[denisse.gonzalez@uchile.cl](mailto:denisse.gonzalez@uchile.cl)  
-📧 [denisemil.gp@gmail.com](mailto:denisemil.gp@gmail.com)  
+📧[denisse.gonzalez@uchile.cl](mailto:denisse.gonzalez@uchile.cl) [denisemil.gp@gmail.com](mailto:denisemil.gp@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/denis-gonzalez-poveda)  
 📍 Santiago, Chile
