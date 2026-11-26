@@ -18,9 +18,9 @@ Historiador y teórico del arte formado en la Universidad de Chile. Mi práctica
 
 <div style="display: flex; gap: 30px; flex-wrap: wrap; justify-content: center; padding: 20px 0;">
 
-<div style="flex: 1; min-width: 280px; max-width: 400px; border: 2px solid #e91e8c; padding: 30px; background: rgba(233, 30, 140, 0.03);">
+<div class="tarjeta tarjeta--rosa">
 
-<h3 style="font-family: 'VT323', monospace; color: #1a3a6b; font-size: 1.8em; margin-top: 0;">👤 Sobre mí</h3>
+<h3 style="font-family: 'VT323', monospace; color: #1a3a6b; font-size: 1.8em; margin-top: 0;"><span aria-hidden="true">👤</span> Sobre mí</h3>
 
 <p style="font-family: 'Cormorant Garamond', serif;">Perfil profesional, experiencia laboral, formación y referencias.</p>
 
@@ -28,22 +28,24 @@ Historiador y teórico del arte formado en la Universidad de Chile. Mi práctica
 
 </div>
 
-<div style="flex: 1; min-width: 280px; max-width: 400px; border: 2px solid #00bfff; padding: 30px; background: rgba(0, 191, 255, 0.03);">
+<div class="tarjeta tarjeta--celeste">
 
-<h3 style="font-family: 'VT323', monospace; color: #1a3a6b; font-size: 1.8em; margin-top: 0;">🎨 Proyectos</h3>
+<h3 style="font-family: 'VT323', monospace; color: #1a3a6b; font-size: 1.8em; margin-top: 0;"><span aria-hidden="true">🎨</span> Proyectos</h3>
 
 <p style="font-family: 'Cormorant Garamond', serif;">Trabajos curatoriales, de investigación y producción artística.</p>
 
 <p><a href="/mi_portafolio/proyectos/" style="font-family: 'VT323', monospace; color: #00bfff; font-size: 1.3em; text-decoration: none;">Ver Proyectos →</a></p>
-<div style="flex: 1; min-width: 280px; max-width: 400px; border: 2px solid #f4c430; padding: 30px; background: rgba(244, 196, 48, 0.03);">
 
-<h3 style="font-family: 'VT323', monospace; color: #1a3a6b; font-size: 1.8em; margin-top: 0;">🖼️ Obra personal</h3>
+</div>
+
+<div class="tarjeta tarjeta--amarillo">
+
+<h3 style="font-family: 'VT323', monospace; color: #1a3a6b; font-size: 1.8em; margin-top: 0;"><span aria-hidden="true">🖼️</span> Obra personal</h3>
 
 <p style="font-family: 'Cormorant Garamond', serif;">Pinturas en proceso. Lienzos donde el cuerpo, el vacío y el deseo se encuentran.</p>
 
 <p><a href="/mi_portafolio/obra/" style="font-family: 'VT323', monospace; color: #00bfff; font-size: 1.3em; text-decoration: none;">Ver Obra →</a></p>
 
-</div>
 </div>
 
 </div>
