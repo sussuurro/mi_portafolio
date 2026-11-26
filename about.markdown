@@ -71,19 +71,12 @@ Historiador y teórico del arte formado en la Universidad de Chile. Mi práctica
 - **Licenciatura en Artes, mención Teoría e Historia del Arte** — Universidad de Chile. *2017 – 2022*
   - Investigación de título: *Entre identidad(es) y anonimato. Trayectorias artísticas de cuerpos fugados* (2022). Investigación en arte queer, estudios de las imágenes, curatoría y archivo.
 
----
-
-## Referencias
-
-- **Paula Arrieta** — Académica, Universidad de Chile. parrieta@uchile.cl · +56 9 8687 5788
-- **Cats Castillo** — Producción ejecutiva, Centro NAVE. ccastillo@nave.io · +56 9 9567 2240
-- **Janis Saldías** — Encargada de Curatoría, Museo de Arte Popular Americano. janis.garces@uchile.cl
 
 ---
 
 ## Contacto
 
+📧[denisse.gonzalez@uchile.cl](mailto:denisse.gonzalez@uchile.cl)  
 📧 [denisemil.gp@gmail.com](mailto:denisemil.gp@gmail.com)  
-📱 +56 9 4732 4885  
 🔗 [LinkedIn](https://www.linkedin.com/in/denis-gonzalez-poveda)  
 📍 Santiago, Chile
