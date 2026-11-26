@@ -32,22 +32,42 @@
     border-bottom: 2px solid #e91e8c;
   }
 
-  .site-header {
-    background-color: #1a1a1a;
-    border-bottom: 3px solid #e91e8c;
-  }
+ .site-header {
+  background-color: #fdf6e3;
+  border-bottom: 3px solid #e91e8c;
+  border-top: 3px solid #00bfff;
+}
 
-  .site-header a {
-    color: #fdf6e3;
-    font-family: 'VT323', monospace;
-    font-size: 1.3em;
-    border-bottom: none;
-  }
+.site-header a {
+  color: #1a3a6b;
+  font-family: 'VT323', monospace;
+  font-size: 1.3em;
+  border-bottom: none;
+}
 
-  .site-header a:hover {
-    color: #00bfff;
-  }
+.site-header a:hover {
+  color: #e91e8c;
+}
 
+.site-header .site-title {
+  color: #1a1a1a !important;
+  position: relative;
+  padding-left: 52px !important;
+}
+
+.site-header .site-title::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 40px;
+  height: 40px;
+  background-image: url('/mi_portafolio/assets/images/logo_denis.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
   .site-footer {
     background-color: #1a1a1a;
     color: #fdf6e3;
@@ -116,28 +136,8 @@
 .home a[style]:hover {
   color: #e91e8c !important;
 }
-.site-header .site-title {
-  position: relative;
-  padding-left: 52px !important;
-}
 
-.site-header .site-title::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 40px;
-  height: 40px;
-  background-image: url('/mi_portafolio/assets/images/logo_denis.png');
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  filter: invert(1);
-}
-.site-header .site-title:hover {
-  filter: invert(1) sepia(1) saturate(5) hue-rotate(280deg);
-}  
+
 .galeria {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
