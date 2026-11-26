@@ -127,4 +127,38 @@
 .site-header .site-title:hover {
   filter: invert(1) sepia(1) saturate(5) hue-rotate(280deg);
 }  
+.galeria {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 24px;
+  margin: 30px 0;
+}
+
+.galeria figure {
+  margin: 0;
+  border: 2px solid #1a1a1a;
+  box-shadow: 5px 5px 0 #e91e8c;
+  background: #ffffff;
+  padding: 10px;
+  transition: transform 0.2s;
+}
+
+.galeria figure:hover {
+  transform: translate(-3px, -3px);
+  box-shadow: 8px 8px 0 #00bfff;
+}
+
+.galeria img {
+  width: 100%;
+  display: block;
+  border: none;
+  box-shadow: none;
+}
+
+.galeria figcaption {
+  font-family: 'VT323', monospace;
+  color: #1a3a6b;
+  font-size: 1.1em;
+  padding: 10px 4px 4px;
+}
 </style>
