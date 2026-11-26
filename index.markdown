@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Denis González Poveda
+title: Portafolio
 permalink: /
 ---
 
