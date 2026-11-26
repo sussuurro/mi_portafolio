@@ -1,13 +1,18 @@
 title: Denis González Poveda
 email: denisemil.gp@gmail.com
 description: >-
-  Portafolio profesional de Denis González Poveda, historiador del arte y curador.
+  Curaduría, investigación y mediación. Santiago de Chile.
 baseurl: "/mi_portafolio"
 url: "https://sussuurro.github.io"
 linkedin_username: denis-gonzalez-poveda
 github_username: sussuurro
 
 theme: minima
+header_pages:
+  - about.markdown
+  - proyectos.md
+  - obra.md
+
 plugins:
   - jekyll-feed
 
