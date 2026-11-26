@@ -10,7 +10,7 @@ Una selección de mis trabajos curatoriales, de investigación y producción art
 
 ## Proyectos Curatoriales
 
-### La Veta — Investigación invitada
+### [La Veta — Investigación invitada](/mi_portafolio/proyectos/la-veta/)
 **Museo de Arte Popular Americano (MAPA), Universidad de Chile**  
 *2025 – 2026, Santiago*
 
@@ -18,7 +18,7 @@ Investigación curatorial en el marco de la exposición *La Veta*, explorando la
 
 ---
 
-### Exploraciones del extrañamiento: Ficciones posibles
+### [Exploraciones del extrañamiento: Ficciones posibles](/mi_portafolio/proyectos/exploraciones-del-extranamiento/)
 **Museo de Química y Farmacia Prof. César Leyton**  
 *2024, Santiago*
 
@@ -26,7 +26,7 @@ Curaduría, gestión y producción integral de la exposición. Responsable de la
 
 ---
 
-### Cuerpos fugados
+### [Cuerpos fugados](/mi_portafolio/proyectos/cuerpos-fugados/)
 **Casa Palacio — Foro de las Artes 2023 (DICREA)**  
 *2023, Santiago*
 
@@ -36,9 +36,7 @@ Curaduría y producción de exposición ganadora en el marco de apoyo a práctic
 
 ## Investigación y Residencias
 
-### Fracaso como Utopía — Residencia de investigación y creación
-[FUC →](/mi_portafolio//proyectos/fracaso-como-utopia/)
-
+### [Fracaso como Utopía — Residencia de investigación y creación](/mi_portafolio/proyectos/fracaso-como-utopia/)
 **Centro Cultural de España (CCE) y Centro NAVE**  
 *2026, Santiago*
 
@@ -46,7 +44,7 @@ Residencia artística explorando el fracaso como potencia creativa y política.
 
 ---
 
-### Revueltas Gráficas. Multitudes para cambiar la vida
+### [Revueltas Gráficas. Multitudes para cambiar la vida](/mi_portafolio/proyectos/revueltas-graficas/)
 **Biblioteca Cuir — CCLM**  
 *2023 – 2025, Santiago – São Paulo*
 
@@ -56,7 +54,7 @@ Colección, archivo y mediación en residencia de creación e investigación.
 
 ## Producción Artística
 
-### Foro de las Artes 2026 — Subversión Sensible
+### [Foro de las Artes 2026 — Subversión Sensible](/mi_portafolio/proyectos/foro-2026/)
 **DICREA, Universidad de Chile**  
 *2026, Santiago*
 
@@ -64,7 +62,7 @@ Asistente de producción artística en proyectos que exploran las prácticas art
 
 ---
 
-### Foro de las Artes 2025 — Formas Post-Humanas
+### [Foro de las Artes 2025 — Formas Post-Humanas](/mi_portafolio/proyectos/foro-2025/)
 **DICREA, Universidad de Chile**  
 *2025, Santiago*
 
@@ -72,7 +70,7 @@ Asistente de producción artística en proyectos que interrogan las relaciones e
 
 ---
 
-### 17 Bienal de Artes Mediales — Hiperrealidades
+### [17 Bienal de Artes Mediales — Hiperrealidades](/mi_portafolio/proyectos/bienal-2025/)
 **Corporación Chilena de Video y Artes Electrónicas (CChV)**  
 *2025, Santiago*
 
@@ -82,7 +80,7 @@ Mediación artística en la 17° Bienal de Artes Mediales de Santiago.
 
 ## Mediación y Educación
 
-### Mediación Artística — Conmemorar y Celebrar
+### [Mediación Artística — Conmemorar y Celebrar](/mi_portafolio/proyectos/mediacion-gam/)
 **Fundación Mecenas – Centro GAM**  
 *2025, Santiago*
 
@@ -90,7 +88,7 @@ Diseño de mediación expandida en el marco de la exposición.
 
 ---
 
-### Talleres Comunitarios
+### [Talleres Comunitarios](/mi_portafolio/proyectos/talleres-sirene/)
 **Fundación Simón de Sirene**  
 *2025, Santiago*
 
@@ -98,7 +96,7 @@ Producción de talleres comunitarios que integran el arte como herramienta de tr
 
 ---
 
-### Conciertos Educativos
+### [Conciertos Educativos](/mi_portafolio/proyectos/conciertos-usach/)
 **Universidad de Santiago (USACH)**  
 *2025, Santiago*
 
