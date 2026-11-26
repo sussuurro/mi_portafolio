@@ -1,0 +1,40 @@
+---
+---
+@import url('https://fonts.googleapis.com/css2?family=VT323&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap');
+
+@import "minima";
+
+body {
+  background-color: #fdf6e3;
+  color: #1a1a1a;
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'VT323', monospace;
+  color: #e91e8c;
+  font-weight: normal;
+}
+
+h2 { border-bottom: 2px solid #00bfff; padding-bottom: 8px; }
+h3 { color: #1a3a6b; }
+
+a { color: #00bfff; border-bottom: 1px dotted #e91e8c; text-decoration: none; }
+a:hover { color: #e91e8c; }
+
+.site-header { background-color: #1a1a1a; border-bottom: 3px solid #e91e8c; }
+.site-header .site-title, .site-header .page-link {
+  color: #fdf6e3; font-family: 'VT323', monospace; border-bottom: none;
+}
+.site-header a:hover { color: #00bfff; }
+
+.site-footer { background-color: #1a1a1a; color: #fdf6e3; border-top: 3px solid #00bfff; }
+.site-footer a { color: #00bfff; }
+
+.post-link { font-family: 'VT323', monospace; font-size: 1.5em; color: #1a3a6b; }
+.post-meta { color: #e91e8c; font-family: 'VT323', monospace; }
+
+img { border: 2px solid #1a1a1a; box-shadow: 4px 4px 0 #e91e8c; }
+
+hr { border: none; border-top: 2px dashed #e91e8c; }
