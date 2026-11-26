@@ -4,8 +4,7 @@ description: >-
   Curaduría, investigación y mediación. Santiago de Chile.
 baseurl: "/mi_portafolio"
 url: "https://sussuurro.github.io"
-linkedin_username: denis-gonzalez-poveda
-github_username: sussuurro
+
 
 theme: minima
 header_pages:
