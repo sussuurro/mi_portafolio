@@ -35,7 +35,15 @@ Historiador y teórico del arte formado en la Universidad de Chile. Mi práctica
 <p style="font-family: 'Cormorant Garamond', serif;">Trabajos curatoriales, de investigación y producción artística.</p>
 
 <p><a href="/mi_portafolio/proyectos/" style="font-family: 'VT323', monospace; color: #00bfff; font-size: 1.3em; text-decoration: none;">Ver Proyectos →</a></p>
+<div style="flex: 1; min-width: 280px; max-width: 400px; border: 2px solid #f4c430; padding: 30px; background: rgba(244, 196, 48, 0.03);">
 
+<h3 style="font-family: 'VT323', monospace; color: #1a3a6b; font-size: 1.8em; margin-top: 0;">🖼️ Obra personal</h3>
+
+<p style="font-family: 'Cormorant Garamond', serif;">Pinturas en proceso. Lienzos donde el cuerpo, el vacío y el deseo se encuentran.</p>
+
+<p><a href="/mi_portafolio/obra/" style="font-family: 'VT323', monospace; color: #00bfff; font-size: 1.3em; text-decoration: none;">Ver Obra →</a></p>
+
+</div>
 </div>
 
 </div>
