@@ -198,3 +198,25 @@ img {
 .tarjeta--celeste { border: 2px solid #00bfff; box-shadow: 5px 5px 0 #00bfff; background: rgba(0, 191, 255, 0.03); }
 .tarjeta--amarillo{ border: 2px solid #f4c430; box-shadow: 5px 5px 0 #f4c430; background: rgba(244, 196, 48, 0.03); }
 .tarjeta:hover { transform: translate(-3px, -3px); }
+/* Ocultar checkbox y menú hamburguesa de minima */
+.menu-icon,
+.menu-icon input,
+.menu-icon svg {
+  display: none !important;
+}
+
+/* Asegurar que el nav se vea siempre completo */
+.site-nav {
+  display: flex !important;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav {
+    display: flex !important;
+    flex-direction: column;
+    gap: 8px;
+  }
+}
+
