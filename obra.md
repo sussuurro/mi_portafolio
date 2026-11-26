@@ -4,7 +4,6 @@ title: Obra personal
 permalink: /obra/
 ---
 
-Pinturas en proceso. Lienzos donde el cuerpo, el vacío y el deseo se encuentran.
 
 <div class="galeria">
 
