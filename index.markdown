@@ -53,3 +53,8 @@ Historiador y teórico del arte formado en la Universidad de Chile. Mi práctica
 <hr style="border: none; border-top: 2px dashed #e91e8c; margin: 30px 0;">
 
 <h2 style="font-family: 'VT323', monospace; color: #e91e8c; font-size: 2.2em;">Escritos</h2>
+.escritos-section {
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><filter id="noise"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="4" stitchTiles="stitch"/></filter><rect width="100" height="100" filter="url(%23noise)" opacity="0.08"/></svg>');
+  padding: 40px 20px;
+}
+
