@@ -37,6 +37,8 @@ Curaduría y producción de exposición ganadora en el marco de apoyo a práctic
 ## Investigación y Residencias
 
 ### Fracaso como Utopía — Residencia de investigación y creación
+[FUC →](/mi_portafolio/proyectos/fracaso-como-utopia/)
+
 **Centro Cultural de España (CCE) y Centro NAVE**  
 *2026, Santiago*
 
