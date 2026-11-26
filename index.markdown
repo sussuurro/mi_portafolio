@@ -1,42 +1,45 @@
 ---
-layout: home
+layout: page
 title: Denis González Poveda
+permalink: /
 ---
 
 <div style="text-align: center; padding: 40px 20px;">
 
-## Historiador del arte, curador e investigador
+<h2 style="font-family: 'VT323', monospace; color: #e91e8c; font-size: 2.5em;">Historiador del arte, curador e investigador</h2>
 
+<p style="font-family: 'Cormorant Garamond', serif; font-size: 1.2em; max-width: 700px; margin: 20px auto;">
 Historiador y teórico del arte formado en la Universidad de Chile. Mi práctica se despliega entre la curaduría, mediación, investigación y producción.
+</p>
 
 </div>
 
----
+<hr style="border: none; border-top: 2px dashed #e91e8c; margin: 30px 0;">
 
 <div style="display: flex; gap: 30px; flex-wrap: wrap; justify-content: center; padding: 20px 0;">
 
-<div style="flex: 1; min-width: 280px; border: 2px solid #e91e8c; padding: 30px; background: rgba(233, 30, 140, 0.03);">
+<div style="flex: 1; min-width: 280px; max-width: 400px; border: 2px solid #e91e8c; padding: 30px; background: rgba(233, 30, 140, 0.03);">
 
-### 👤 Sobre mí
+<h3 style="font-family: 'VT323', monospace; color: #1a3a6b; font-size: 1.8em; margin-top: 0;">👤 Sobre mí</h3>
 
-Perfil profesional, experiencia laboral, formación y referencias.
+<p style="font-family: 'Cormorant Garamond', serif;">Perfil profesional, experiencia laboral, formación y referencias.</p>
 
-[**Ver Sobre mí →**](/mi_portafolio/about/)
-
-</div>
-
-<div style="flex: 1; min-width: 280px; border: 2px solid #00bfff; padding: 30px; background: rgba(0, 191, 255, 0.03);">
-
-### 🎨 Proyectos
-
-Trabajos curatoriales, de investigación y producción artística.
-
-[**Ver Proyectos →**](/mi_portafolio/proyectos/)
+<p><a href="/mi_portafolio/about/" style="font-family: 'VT323', monospace; color: #00bfff; font-size: 1.3em; text-decoration: none;">Ver Sobre mí →</a></p>
 
 </div>
 
+<div style="flex: 1; min-width: 280px; max-width: 400px; border: 2px solid #00bfff; padding: 30px; background: rgba(0, 191, 255, 0.03);">
+
+<h3 style="font-family: 'VT323', monospace; color: #1a3a6b; font-size: 1.8em; margin-top: 0;">🎨 Proyectos</h3>
+
+<p style="font-family: 'Cormorant Garamond', serif;">Trabajos curatoriales, de investigación y producción artística.</p>
+
+<p><a href="/mi_portafolio/proyectos/" style="font-family: 'VT323', monospace; color: #00bfff; font-size: 1.3em; text-decoration: none;">Ver Proyectos →</a></p>
+
 </div>
 
----
+</div>
 
-## Escritos
+<hr style="border: none; border-top: 2px dashed #e91e8c; margin: 30px 0;">
+
+<h2 style="font-family: 'VT323', monospace; color: #e91e8c; font-size: 2.2em;">Escritos</h2>
