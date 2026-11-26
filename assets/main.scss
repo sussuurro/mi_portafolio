@@ -177,3 +177,15 @@ img {
 .site-footer .footer-heading {
   display: none;
 }
+.tarjeta {
+  flex: 1;
+  min-width: 280px;
+  max-width: 400px;
+  padding: 30px;
+  background: #fff;
+  transition: transform 0.2s;
+}
+.tarjeta--rosa    { border: 2px solid #e91e8c; box-shadow: 5px 5px 0 #e91e8c; background: rgba(233, 30, 140, 0.03); }
+.tarjeta--celeste { border: 2px solid #00bfff; box-shadow: 5px 5px 0 #00bfff; background: rgba(0, 191, 255, 0.03); }
+.tarjeta--amarillo{ border: 2px solid #f4c430; box-shadow: 5px 5px 0 #f4c430; background: rgba(244, 196, 48, 0.03); }
+.tarjeta:hover { transform: translate(-3px, -3px); }
