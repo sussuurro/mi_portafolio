@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 ## Perfil Profesional
-
+<p style="font-family: 'Cormorant Garamond', serif; font-size: 1.2em; max-width: 700px; margin: 20px auto;">
 Historiador y teórico del arte formado en la Universidad de Chile. Mi práctica se despliega entre la curaduría, mediación, investigación y producción. Explorando modos de pensar y producir desde el arte como campo vivo de experimentación colectiva, donde la reflexión se encarna en los procesos y las formas sensibles del trabajo artístico.
-
+</p>
 ---
 
 ## Experiencia Laboral
