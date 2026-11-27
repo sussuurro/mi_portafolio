@@ -191,12 +191,13 @@ img {
   min-width: 280px;
   max-width: 400px;
   padding: 30px;
-  background: #fff;
+  /* ruido digital muy sutil, no interfiere lectura */
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120"><filter id="n"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" stitchTiles="stitch"/></filter><rect width="120" height="120" filter="url(%23n)" opacity="0.06"/></svg>');
   transition: transform 0.2s;
 }
-.tarjeta--rosa    { border: 2px solid #e91e8c; box-shadow: 5px 5px 0 #e91e8c; background: rgba(233, 30, 140, 0.03); }
-.tarjeta--celeste { border: 2px solid #00bfff; box-shadow: 5px 5px 0 #00bfff; background: rgba(0, 191, 255, 0.03); }
-.tarjeta--amarillo{ border: 2px solid #f4c430; box-shadow: 5px 5px 0 #f4c430; background: rgba(244, 196, 48, 0.03); }
+.tarjeta--rosa    { border: 2px solid #e91e8c; box-shadow: 5px 5px 0 #e91e8c; background-color: rgba(233, 30, 140, 0.03); }
+.tarjeta--celeste { border: 2px solid #00bfff; box-shadow: 5px 5px 0 #00bfff; background-color: rgba(0, 191, 255, 0.03); }
+.tarjeta--amarillo{ border: 2px solid #f4c430; box-shadow: 5px 5px 0 #f4c430; background-color: rgba(244, 196, 48, 0.03); }
 .tarjeta:hover { transform: translate(-3px, -3px); }
 /* Ocultar checkbox Y hamburguesa de minima */
 #menu-toggle,
