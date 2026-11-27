@@ -44,8 +44,7 @@ Residencia artística explorando el fracaso como potencia creativa y política.
 
 ---
 
-### [Revueltas Gráficas. Multitudes para cambiar la vida](/mi_portafolio/proyectos/revueltas-graficas/)
-**Biblioteca Cuir — CCLM**  
+### Biblioteca Cuir
 *2023 – 2025, Santiago – São Paulo*
 
 Colección, archivo y mediación en residencia de creación e investigación.
@@ -54,7 +53,7 @@ Colección, archivo y mediación en residencia de creación e investigación.
 
 ## Producción Artística
 
-### [Foro de las Artes 2026 — Subversión Sensible](/mi_portafolio/proyectos/foro-2026/)
+### Foro de las Artes 2026 — Subversión Sensible
 **DICREA, Universidad de Chile**  
 *2026, Santiago*
 
@@ -62,7 +61,7 @@ Asistente de producción artística en proyectos que exploran las prácticas art
 
 ---
 
-### [Foro de las Artes 2025 — Formas Post-Humanas](/mi_portafolio/proyectos/foro-2025/)
+### Foro de las Artes 2025 — Formas Post-Humanas
 **DICREA, Universidad de Chile**  
 *2025, Santiago*
 
@@ -70,7 +69,7 @@ Asistente de producción artística en proyectos que interrogan las relaciones e
 
 ---
 
-### [17 Bienal de Artes Mediales — Hiperrealidades](/mi_portafolio/proyectos/bienal-2025/)
+### 17 Bienal de Artes Mediales — Hiperrealidades
 **Corporación Chilena de Video y Artes Electrónicas (CChV)**  
 *2025, Santiago*
 
@@ -88,7 +87,7 @@ Diseño de mediación expandida en el marco de la exposición.
 
 ---
 
-### [Talleres Comunitarios](/mi_portafolio/proyectos/talleres-sirene/)
+### Talleres Comunitarios
 **Fundación Simón de Sirene**  
 *2025, Santiago*
 
@@ -96,7 +95,7 @@ Producción de talleres comunitarios que integran el arte como herramienta de tr
 
 ---
 
-### [Conciertos Educativos](/mi_portafolio/proyectos/conciertos-usach/)
+### Conciertos Educativos
 **Universidad de Santiago (USACH)**  
 *2025, Santiago*
 
