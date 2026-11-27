@@ -234,4 +234,9 @@ img {
     gap: 8px;
   }
 }
+/* Ocultar el título vacío de la home sin afectar about/proyectos/obra */
+.post-title:empty,
+.page-title:empty { display: none; }
 
+.post-header:not(:has(.post-title, .page-title)),
+.page-header:not(:has(.post-title, .page-title)) { display: none; }
