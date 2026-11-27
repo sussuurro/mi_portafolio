@@ -2,9 +2,7 @@
 layout: page
 permalink: /
 ---
-
-<div style="text-align: center; padding: 40px 20px;">
-
+<div style="text-align: center; padding: 12px 20px 30px;">
 <h2 style="font-family: 'VT323', monospace; color: #e91e8c; font-size: 2.5em;">Historiador del arte, curador e investigador</h2>
 
 <p style="font-family: 'Cormorant Garamond', serif; font-size: 1.2em; max-width: 700px; margin: 20px auto;">
